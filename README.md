@@ -12,16 +12,19 @@ pip install simple_image_download
 ## Algorithm
 
 1. Import the simple_image_download library:
+
 ``python
 from simple_image_download import simple_image_download as simp
 ```
 
 2. Define the keywords you want to use to find pictures:
+
 ``python
 keywords = ["keyword1", "keyword2", ...]
 ```
 
 3. Loop over the keywords and download the images:
+
 ``python
 response = simp.simple_image_download
 for kw in keywords:
