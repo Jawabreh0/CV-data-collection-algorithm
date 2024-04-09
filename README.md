@@ -1,6 +1,6 @@
 # Data Collection Algorithm
 
-This algorithm is designed to collect a set of data related to a specific keyword. This data can be used to train an AI model, for example, an image classification model. Here is how the algorithm works:
+This algorithm is designed to collect a set of computer vision data related to a specific keyword. This data can be used to train an AI model, for example, an image classification model. Here is how the algorithm works:
 
 ## Prerequisites
 This algorithm requires the simple_image_download library. If you don't have it, you can install it using pip:
